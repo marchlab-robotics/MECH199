@@ -1,0 +1,10 @@
+/* 
+[MECH199-01] Freshman Reaserch Participation 
+Materials: Arduino Uno(MCU board), Myoware V1.0(sEMG sensor), HS-53(servo motor)
+Summary: Use sEMG sensor signal(amplifierd-ractified) to control single servo motor
+
+March. 21st. 2024. 
+Ju Wan Han in MARCH Lab. (march.postech.ac.kr) 
+Department of Mechanical Engineering, POSTECH
+E-mail: han0601@postech.ac.kr
+*/
